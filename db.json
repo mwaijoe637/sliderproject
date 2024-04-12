@@ -1,0 +1,30 @@
+{
+    "sliderItems": [
+      {
+        "imgSrc": "https://images.unsplash.com/photo-1583422409516-2895a77efded?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFyY2Vsb25hfGVufDB8fDB8fHww",
+        "title": "Barcelona",
+        "description": " Barcelona, the vibrant capital of Catalonia in northeastern Spain, is renowned for its rich history, stunning architecture, and dynamic cultural scene. At its heart lies the iconic Sagrada Família, Antoni Gaudí's towering masterpiece blending Gothic and Art Nouveau styles. The city is a tapestry of architectural wonders, from the whimsical Park Güell to the enchanting streets of the Gothic Quarter."
+      },
+      {
+        "imgSrc": "https://www.travelandleisure.com/thmb/C6QJ8Ji-1AaKJux3J3DISz-Xr38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/17-paris-social-niche1115-7303e5b262364404ae499dead35ef76d.jpg",
+        "title": "Paris",
+        "description": "Paris, the enchanting capital of France, is synonymous with romance, art, and culture. Known as the City of Light, Paris dazzles with its iconic landmarks, such as the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum, home to masterpieces like the Mona Lisa. "
+      },
+      {
+        "imgSrc": "https://media.istockphoto.com/id/148125959/photo/roman-ruins-in-rome-forum.jpg?s=612x612&w=0&k=20&c=oHEL4yiAf0ygLz2CFGUJKN6vNdjmjyKgTJlUbJLDnDo=",
+        "title": "Rome",
+        "description": "Rome is filled with notable palaces, churches, and public squares called piazzas. The city also has more than 300 public fountains. Museums such as the Borghese Gallery display famous works of art. The remains of many ancient monuments still stand in Rome."
+      },
+      {
+        "imgSrc": "https://media.istockphoto.com/id/675172642/photo/pura-ulun-danu-bratan-temple-in-bali.jpg?s=612x612&w=0&k=20&c=_MPdmDviIyhldqhf7t6s63C-bZbTGfNHMlJP9SIa8Y0=",
+        "title": "Bali",
+        "description": "Known as the Island of the Gods, Bali is an island paradise that has much to offer its visitors. Lush rice fields, ancient temples, magical sunsets, traditional villages, idyllic beaches and the best hotels in the world are some of the island's most remarkable attractions."
+      },
+      {
+        "imgSrc": "https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg",
+        "title": "Cape Town",
+        "description": "Famous for its sun, sea and scenery, Cape Town is a beloved tourist destination for visitors the world over. It's, therefore, no surprise that this coastal gem has been voted the best city in the world seven-years-running"
+      }
+    ]
+  }
+  
