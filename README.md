@@ -28,7 +28,7 @@ HTML
 CSS
 Github
 Javascript
-Bootstrap
+
 
 ## Support and contact details
 Phone Number: 0792637952
