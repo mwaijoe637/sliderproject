@@ -21,7 +21,7 @@ Git clone git@github.com:mwaijoe637/sliderproject.git
 ```
 
 # Live Link
-[Git](https://github.com/mwaijoe637/WK1-Code-Challenge.git)
+[Git](https://tiny-kelpie-e759a4.netlify.app/)
 
 ## Technologies used
 HTML
